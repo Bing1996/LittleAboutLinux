@@ -1,16 +1,21 @@
 1. generate a new ssh key to connect your github account
+   a. ssh-keygen in the new device (generate a new ssh)
+   b. adding the new ssh key in the github ssh key website
+   c. ssh -T git@github.com
+   d. enter the password
+
 2. how to clone the file
    a. cd targetFile Address
    b. git clone + URL
    c. cd cloneFile Address
    d. coding your new file which you want to upload
+
 3. how to upload the newFile
    a. git add "newFile" (in your workspace path)
    b. git commit -m "newFile"
    c. git push origin master
+   
 4. how to delete the newFile (existed in your targetRepository)
    a. git rm "newFile"
    b. git commit -m "newFile"
    c. git push origin master
-
-  
