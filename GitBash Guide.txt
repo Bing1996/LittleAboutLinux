@@ -3,6 +3,8 @@
    b. adding the new ssh key in the github ssh key website
    c. ssh -T git@github.com
    d. enter the password
+   e. Git config --global user.name ""
+   f. Git config --global user.email ""
 
 2. how to clone the file
    a. cd targetFile Address
