@@ -24,3 +24,4 @@
 
 5. how to push the newFile with Atom
    a. how to push the newFile with Atom
+   b. how to wirte the commit
