@@ -16,8 +16,10 @@
    a. git add "newFile" (in your workspace path)
    b. git commit -m "newFile"
    c. git push origin master
-   
+
 4. how to delete the newFile (existed in your targetRepository)
    a. git rm "newFile"
    b. git commit -m "newFile"
    c. git push origin master
+
+5. how to push the newFile with Atom
